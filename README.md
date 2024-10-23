@@ -1,7 +1,7 @@
 # FitHosh: AI-Powered Fitness and Nutrition Platform
 
 <p align="center">
-  <img src="public/Fithosh.png" alt="FitHosh Logo" width="200"/>
+  <img src="public/Fithosh.png" alt="FitHosh Logo" width="500"/>
 </p>
 
 FitHosh is a cutting-edge SaaS platform that leverages advanced AI technologies to provide personalized fitness, health, and nutrition guidance. Our mission is to make professional-level health and fitness advice accessible to everyone, using the power of deep learning, neural networks, CNNs, and RNNs.
