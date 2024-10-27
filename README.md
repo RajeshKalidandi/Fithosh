@@ -99,6 +99,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-For any queries, please reach out to us at support@fithosh.com or visit our website [www.fithosh.com](https://www.fithosh.com).
+For any queries, please reach out to us at Kalidandiirajesh@gmail.com or visit our website [www.fithosh.com](https://github.com/RajeshKalidandi/Fithosh).
 
 Join us in revolutionizing personal health and fitness with the power of AI!
